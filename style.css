@@ -1,16 +1,17 @@
 body{
-    background-color: green;
+    background-color: rgb(126, 128, 0);
     
 
 }  
 
 .creado{
     background-color: white;
-       width: 10%;
+       width: 20%;
     border: 1px solid black;
-    height: 10%;  
+    height: 20%;  
      margin: 2% auto;
-  border-radius: 20px;
+  border-radius: 15px;
+  font-family:'Cinzel Decorative', cursive;
 
   
     
